@@ -1,0 +1,32 @@
+{
+    "id": "b2f9d86a-7201-4c3a-bcf1-91498a29842f",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "b2f9d86a-7201-4c3a-bcf1-91498a29842f",
+    "children": [
+        "4d202ebc-b016-422f-be70-d999df9f51b0",
+        "2a4c7f9c-00b0-4b00-936f-df278b3e6fd8",
+        "cde319da-a10b-47cf-90a1-2f96be0f2115",
+        "1dab0270-a8e2-4482-9e40-a55d5b9754e9",
+        "0d9357b8-3182-454a-b280-75595a44af28",
+        "d464039b-12d6-4ddd-86f1-f31681241180",
+        "1a8f1222-77fc-4fc2-bd23-639c2876fc13",
+        "197a85d9-2708-47d5-a97f-ffc09bc43d1c",
+        "49528190-ff13-48fe-872a-c37a81cde018",
+        "26a47370-cee4-45eb-8412-c0433be10b62",
+        "1274fe69-90ff-4987-ae24-78ca8e59e82a",
+        "326d30ec-c1d6-4307-934c-5d5a01168fe5",
+        "6b611c8b-4652-4ba3-b252-da74d0bc6e4b",
+        "ffd43e42-cd21-43d9-8982-55131131440e",
+        "ae5c347a-ba41-42b2-b4f9-2e01f9a469c8",
+        "4af020d7-e69f-4dfb-985a-1075c661fd7c",
+        "bdb10e65-ada9-45a3-a99c-2c26d72683c1",
+        "ae6eea7d-a44a-421a-9efc-39fa62690a11",
+        "16f10e7d-81ed-4ca6-af63-000882e23a0f",
+        "c42a0331-a82c-4288-8d8c-645a36b54e49"
+    ],
+    "filterType": "GMScript",
+    "folderName": "Collision mesh",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

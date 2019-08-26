@@ -1,0 +1,15 @@
+State | Name                 | Commentary
+______|______________________|______________
+WIP   | Height Based Fog     | Something is wrong...
+Done  | Distance Based Fog   | 
+Done  | Cel-Shading          | 
+Done  | Rim-Light            | 
+Done  | Shadows              | Fix softening with noise (Done)
+      | Tonemapping          | 
+Done  | ACES                 | 
+Fail  | DSSDO                | Acc(Done?), Blur(WIP), Resolve(Done?); Must use 16bit per channel textures. Store WorldPos, Occlusion there; https://kayru.org/articles/dssdo/
+      | Chromatic Abberation | 
+      | Vignette             | 
+      | SSAO                 | 
+      
+
