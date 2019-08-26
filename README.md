@@ -103,3 +103,27 @@ PS main(VS In) {
 ```
 
 **You even don't need to restart IDE for this tricks**
+
+# Graphics Pipeline has:
+ * Unified rendering shaders
+ * Dynamic Shadows
+ * VPL / Backed GI (WIP)
+ * Height Based Fog (WIP)
+ * Distant Fog
+ * Rim-Lighting
+ * Cel-Shading
+ * Post Processing
+ * ACES Tonemapping
+ * HDR?.. (512 gradations for each channel)
+ * Deferred rendering (Multiple lights WIP)
+ * Unified scene rendering
+ * Flags for rendering each object
+ * OBJ and MTL Loader with TGA/PNG/JPG support
+ * DSSDO (WIP)
+ * Eye adaptation (WIP)
+ * Debug GUI
+ * Basic object manipulation (WIP)
+ * Splatmap support
+ 
+ 
+ 
