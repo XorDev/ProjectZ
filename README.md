@@ -2,7 +2,8 @@
 3D collaborative project in GMS 2.
 
 # SweetLuna's Graphics Pipeline
-To run shaders you **MUST** do some setup for it.
+# Setting up shader environment
+To run shaders you **MUST** do some env. setup for it.
 
 1. I use runtime-2.2.3.344
 
