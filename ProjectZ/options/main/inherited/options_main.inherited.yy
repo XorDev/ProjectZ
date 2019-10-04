@@ -1,8 +1,6 @@
 1.0.0←ed6a955d-5826-4f98-a450-10b414266c27←ed6a955d-5826-4f98-a450-10b414266c27|{
-    "option_window_colour": {
-        "Value": 4278190080
-    },
-    "option_gameguid": "6795e031-2c29-42c0-aac5-e8e27778fdd0",
+    "option_gameguid": "c42e976b-0fd9-4e24-926e-fc5c2a4407f7",
+    "option_lastchanged": "31 May 2018 12:44:56",
     "option_game_speed": 60
 }←1225f6b0-ac20-43bd-a82e-be73fa0b6f4f|{
     "targets": 461609314234257646
